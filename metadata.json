@@ -1,0 +1,6 @@
+{
+  "name": "Território Seguro — Monitoramento Climático Inteligente",
+  "description": "Plataforma inteligente Território Seguro de monitoramento e alerta antecipado de calor extremo, chuvas intensas e risco de incêndios florestais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
